@@ -1,0 +1,151 @@
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.exe
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.deps.json
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.json
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.dev.json
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csprojAssemblyReference.cache
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Login.resources
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.GenerateResource.cache
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfoInputs.cache
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfo.cs
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CoreCompileInputs.cache
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.genruntimeconfig.cache
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableManager.resources
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Properties.Resources.resources
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableDr.resources
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableBN.resources
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.WorkCalender.resources
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abv\source\repos\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.exe
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.deps.json
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.json
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableManager.resources
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableDr.resources
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableBN.resources
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Login.resources
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.WorkCalender.resources
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\DELL\OneDrive\Máy tính\Tiến trình BTL\ProjectQLBV\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.genruntimeconfig.cache
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.exe
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.deps.json
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.json
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.dev.json
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csprojAssemblyReference.cache
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableManager.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableDr.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableBN.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Login.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Properties.Resources.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.WorkCalender.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.GenerateResource.cache
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfoInputs.cache
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfo.cs
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CoreCompileInputs.cache
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CopyComplete
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.exe
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.deps.json
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.json
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableManager.resources
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableDr.resources
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableBN.resources
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Login.resources
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Properties.Resources.resources
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CopyComplete
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.WorkCalender.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Thongke.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.exe
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.deps.json
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.json
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.runtimeconfig.dev.json
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.AssemblyReference.cache
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableManager.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableDr.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.TableBN.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Login.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Properties.Resources.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Thongke.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.WorkCalender.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.GenerateResource.cache
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfoInputs.cache
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.AssemblyInfo.cs
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CoreCompileInputs.cache
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.csproj.CopyComplete
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.dll
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.pdb
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.genruntimeconfig.cache
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Dangky.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.RegisterStaff.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Cldbacsi2.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.ClddsBacsi.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.ClddsBenhNhan.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.DKkhambenh.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Cldbacsi2.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.ClddsBacsi.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.ClddsBenhNhan.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.Dangky.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.DKkhambenh.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.RegisterStaff.resources
+C:\Users\huy28\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.LichDKKB.resources
+C:\Users\abv\source\repos\ProjectQLBV2\ProjectQLBV\obj\Debug\netcoreapp3.1\ProjectQLBV.LichDKKB.resources

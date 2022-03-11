@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cldbacsi2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClddsBacsi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClddsBenhNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DKkhambenh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUIQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HSbacsi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HSBenhNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LichDKKB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thongke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WorkCalender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
